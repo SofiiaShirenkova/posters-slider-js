@@ -1,1 +1,1 @@
-# posters-slider-js
+# Шаблон 
