@@ -12,6 +12,24 @@ body {
    position: absolute; 
 } */
 
+.menu_bar {
+  display: flex;
+  flex-wrap: wrap;
+  height: 8vw;
+  align-content: space-between;
+  z-index: 1000;
+  }
+    
+.main_icon{
+position: fixed;
+display: flex;
+align-self: center;
+margin-left: 48vw;
+margin-top: -3.4vw;
+z-index: 1000;
+}
+  
+/* 
 .main_icon{
   position: fixed;
   display: flex;
@@ -19,7 +37,7 @@ body {
   margin-left: 48%;
   margin-top: 4%;
   z-index: 1000;
-}
+} */
 
 .gallery{
   width: 100%;
